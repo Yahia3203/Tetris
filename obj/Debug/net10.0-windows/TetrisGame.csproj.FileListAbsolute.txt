@@ -1,0 +1,16 @@
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\bin\Debug\net10.0-windows\TetrisGame.exe
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\bin\Debug\net10.0-windows\TetrisGame.deps.json
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\bin\Debug\net10.0-windows\TetrisGame.runtimeconfig.json
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\bin\Debug\net10.0-windows\TetrisGame.dll
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\bin\Debug\net10.0-windows\TetrisGame.pdb
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.frmGamePanel.resources
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.csproj.GenerateResource.cache
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.AssemblyInfoInputs.cache
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.AssemblyInfo.cs
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.dll
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\refint\TetrisGame.dll
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.pdb
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\TetrisGame.genruntimeconfig.cache
+C:\Users\MyLaptop\Desktop\CliniSoft Iternsip\CSharp Learning\TetrisGame\TetrisGame\obj\Debug\net10.0-windows\ref\TetrisGame.dll
