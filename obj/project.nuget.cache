@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "RGhNg2iy2P4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ehabs\\source\\repos\\TetrisGame1\\TetrisGame1\\TetrisGame1.csproj",
+=======
   "dgSpecHash": "KIETsCbeerY=",
   "success": true,
   "projectFilePath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj",
+>>>>>>> 79845041bb03c4689560d36771a8161309ee3d25
   "expectedPackageFiles": [],
   "logs": []
 }
