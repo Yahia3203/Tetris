@@ -9,7 +9,7 @@ namespace TetrisGame1.Classes
 		public const int Columns = 10;
 		public const int Rows = 20;
 
-		private readonly int[,] grid = new int[Rows, Columns];
+		protected readonly int[,] grid = new int[Rows, Columns];
 		public int this[int row, int col] => grid[row, col];
 		public int width { get; private set; }
 		public int height { get; private set; }
@@ -30,22 +30,24 @@ namespace TetrisGame1.Classes
 			else { return false; }
 		}
 
-		public bool IsCellOccupied(int row, int col)
+		public bool GetOccupiedCells(int row, int col)
 		{
-			if (grid[row, col] != 0) { return true; }
-			else { return false; }
+			if (!IsInsideBounds(row, col))
+				return true;
+
+			return grid[row, col] != 0;
 		}
 
 		//will improve this later to check if the piece can be placed in the board
 		public bool CanPlacePiece(clsPiece piece, int row, int col)
 		{
 			int cellsOccupied = 0;
-			foreach (var cell in piece.GetCells())
+			foreach (var cell in piece.GetOccupiedCells(row,col))
 			{
 				cellsOccupied++;
 			}
 
-			if (IsInsideBounds(row, col) && IsCellOccupied(row, col) == false)
+			if (IsInsideBounds(row, col) && GetOccupiedCells(row, col) == false)
 			{
 				return true;
 			}
@@ -62,7 +64,7 @@ namespace TetrisGame1.Classes
 		{
 			if (CanPlacePiece(pieces, row, col))
 			{
-				foreach (var cell in pieces.GetCells())
+				foreach (var cell in pieces.GetOccupiedCells())
 				{
 					grid[row, col] = 1; // Mark the cell as occupied
 				}

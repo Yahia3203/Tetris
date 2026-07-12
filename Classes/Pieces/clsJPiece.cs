@@ -4,21 +4,18 @@ using System.Text;
 
 namespace TetrisGame1.Classes.Pieces
 {
-	internal class clsJPiece : clsPiece
+	public class clsJPiece : clsPiece
 	{
 		public clsJPiece() {
-			this.GridPieceOrientation = new bool[4, 4]{
+			this.Grid_Piece_Orientation = new bool[4, 4]{
 			{ false , false,  true, false },
 			{ false , false,  true, false },
 			{ false , false,  true, false },
 			{ false , true ,  true, false }
 										};
 			this.Type = PieceType.JPiece;
-			this.RotationState = 0;
+			this.Rotation_State = 0;
 		}
-		public override void RotatePiece()
-		{
-			throw new NotImplementedException();
-		}
+		
 	}
 }

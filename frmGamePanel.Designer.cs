@@ -276,7 +276,7 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel1.Size = new Size(533, 567);
             tableLayoutPanel1.TabIndex = 0;
-            tableLayoutPanel1.Paint += tableLayoutPanel1_Paint;
+            tableLayoutPanel1.Paint += tableLayoutPanel1.Paint;
             // 
             // label92
             // 
