@@ -5,9 +5,9 @@ using System.Numerics;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace TetrisGame1.Classes
+namespace TetrisGame.Classes
 {
-	public abstract class clsPiece
+	public class clsPiece
 	{
 		public enum PieceType
 		{
@@ -75,14 +75,17 @@ namespace TetrisGame1.Classes
         }
 
 		//this function tries a move on a copy of the piece first and only apply it if Board.CanPlace says it's legal
-		public void TryMove(Vector2 position_onboard)
+		public bool TryMove()
 		{
+			return false;
 		}
 
 		// move a piece
-		public void Move(Vector2 position_onboard)
+		public bool Move()
 		{
+			return false;
 		}
+
 
 	}
 }

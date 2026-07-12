@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-namespace TetrisGame1
+namespace TetrisGame
 {
 	internal static class Program
 	{

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace TetrisGame1.Classes.Pieces
+namespace TetrisGame.Classes.Pieces
 {
 	public class clsIPiece : clsPiece
 	{

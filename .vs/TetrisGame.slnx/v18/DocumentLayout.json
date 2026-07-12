@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clszpiece_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clszpiece_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clstpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clstpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clszpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clszpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clsspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +41,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clslpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clslpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -70,115 +74,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "clsGamePanel.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
-              "RelativeDocumentMoniker": "Classes\\clsGamePanel.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
-              "RelativeToolTip": "Classes\\clsGamePanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T12:26:41.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "clsGameController.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
               "RelativeDocumentMoniker": "Classes\\clsGameController.cs",
               "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
               "RelativeToolTip": "Classes\\clsGameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-12T12:26:42.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "clsPiece.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
               "RelativeDocumentMoniker": "Classes\\clsPiece.cs",
               "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
               "RelativeToolTip": "Classes\\clsPiece.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAUwDsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-12T11:57:22.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsIPiece.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
-              "RelativeDocumentMoniker": "Classes\\Pieces\\clsIPiece.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
-              "RelativeToolTip": "Classes\\Pieces\\clsIPiece.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "clsGamePanel.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeDocumentMoniker": "Classes\\clsGamePanel.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeToolTip": "Classes\\clsGamePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T13:34:16.097Z",
+              "WhenOpened": "2026-07-12T12:26:41.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsJPiece.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
-              "RelativeDocumentMoniker": "Classes\\Pieces\\clsJPiece.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
-              "RelativeToolTip": "Classes\\Pieces\\clsJPiece.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T13:45:12.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "clsBoard.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
-              "RelativeDocumentMoniker": "Classes\\clsBoard.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
-              "RelativeToolTip": "Classes\\clsBoard.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAUwAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T11:59:01.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "clsZPiece_1.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsZPiece_1.cs",
-              "RelativeDocumentMoniker": "Classes\\Pieces\\clsZPiece_1.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsZPiece_1.cs",
-              "RelativeToolTip": "Classes\\Pieces\\clsZPiece_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T13:22:48.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsTpiece.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsTpiece.cs",
-              "RelativeDocumentMoniker": "Classes\\Pieces\\clsTpiece.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsTpiece.cs",
-              "RelativeToolTip": "Classes\\Pieces\\clsTpiece.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "clsTPiece.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsTPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsTPiece.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsTPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsTPiece.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-12T13:45:53.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "clsBoard.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "RelativeDocumentMoniker": "Classes\\clsBoard.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "RelativeToolTip": "Classes\\clsBoard.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T11:59:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsZPiece.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsZPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsZPiece.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsZPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsZPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:22:48.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:47:48.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "clsSPiece.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsSPiece.cs",
               "RelativeDocumentMoniker": "Classes\\Pieces\\clsSPiece.cs",
@@ -191,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "clsOPiece.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsOPiece.cs",
               "RelativeDocumentMoniker": "Classes\\Pieces\\clsOPiece.cs",
@@ -204,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "clsLPiece.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsLPiece.cs",
               "RelativeDocumentMoniker": "Classes\\Pieces\\clsLPiece.cs",
@@ -217,7 +208,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsJPiece.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsJPiece.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsJPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:45:12.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "clsIPiece.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsIPiece.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsIPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:34:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "frmGamePanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\frmGamePanel.cs",
               "RelativeDocumentMoniker": "frmGamePanel.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "frmGamePanel.resx",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\frmGamePanel.resx",
               "RelativeDocumentMoniker": "frmGamePanel.resx",
@@ -241,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmGamePanel.cs",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\frmGamePanel.cs",
               "RelativeDocumentMoniker": "frmGamePanel.cs",
@@ -258,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",

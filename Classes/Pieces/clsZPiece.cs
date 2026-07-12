@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TetrisGame1.Classes.Pieces
+namespace TetrisGame.Classes.Pieces
 {
-	internal class clsKKKP : clsPiece
+	internal class clsZPiece : clsPiece
 	{
-		public clsKKKP()
+		public clsZPiece()
 		{
 			this.GridPieceOrientation = new bool[4, 4]{
 			{ false , true,  true, false },
