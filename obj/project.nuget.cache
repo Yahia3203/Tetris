@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "RGhNg2iy2P4=",
+  "dgSpecHash": "AtWLuJF4HB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ehabs\\source\\repos\\TetrisGame1\\TetrisGame1\\TetrisGame1.csproj",
-=======
-  "dgSpecHash": "KIETsCbeerY=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj",
->>>>>>> 79845041bb03c4689560d36771a8161309ee3d25
+  "projectFilePath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

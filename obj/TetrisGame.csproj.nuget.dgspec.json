@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj": {}
+    "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj": {
+    "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj",
+        "projectUniqueName": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj",
         "projectName": "TetrisGame",
-        "projectPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\TetrisGame.csproj",
+        "projectPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\TetrisGame.csproj",
         "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\obj\\",
+        "outputPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

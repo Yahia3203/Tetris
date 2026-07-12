@@ -19,6 +19,8 @@ namespace TetrisGame1.Classes.Pieces
 		public override void RotatePiece()
 		{
 			throw new NotImplementedException();
+=======
+>>>>>>> Stashed changes
 		}
 	}
 }

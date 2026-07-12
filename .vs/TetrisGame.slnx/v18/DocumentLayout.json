@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\",
+  "WorkspaceRootPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\csharp learning\\tetrisgame\\tetrisgame\\frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CBC8BEB-DFE1-4683-988F-C037F8D2D912}|TetrisGame.csproj|C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3CBC8BEB-DFE1-4683-988F-C037F8D2D912}|TetrisGame.csproj|solutionrelative:frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\csharp learning\\tetrisgame\\tetrisgame\\frmgamepanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:frmgamepanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\csharp learning\\tetrisgame\\tetrisgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,63 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmGamePanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs",
-              "RelativeDocumentMoniker": "frmGamePanel.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs [Design]",
-              "RelativeToolTip": "frmGamePanel.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "clsGameController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
+              "RelativeDocumentMoniker": "Classes\\clsGameController.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
+              "RelativeToolTip": "Classes\\clsGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T11:09:09.008Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-07-12T12:26:42.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsGamePanel.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeDocumentMoniker": "Classes\\clsGamePanel.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeToolTip": "Classes\\clsGamePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:26:41.439Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmGamePanel.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs",
-              "RelativeDocumentMoniker": "frmGamePanel.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs",
-              "RelativeToolTip": "frmGamePanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "clsBoard.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "RelativeDocumentMoniker": "Classes\\clsBoard.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "RelativeToolTip": "Classes\\clsBoard.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T10:11:36.062Z",
+              "WhenOpened": "2026-07-12T11:59:01.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmGamePanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs",
-              "RelativeDocumentMoniker": "frmGamePanel.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.cs [Design]*",
-              "RelativeToolTip": "frmGamePanel.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T09:36:28.939Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmGamePanel.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.Designer.cs",
-              "RelativeDocumentMoniker": "frmGamePanel.Designer.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\frmGamePanel.Designer.cs",
-              "RelativeToolTip": "frmGamePanel.Designer.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAwJcAAAAyAAAAAAAAAA==",
+              "Title": "clsPiece.cs",
+              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\clsPiece.cs",
+              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
+              "RelativeToolTip": "Classes\\clsPiece.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T09:26:09.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\CSharp Learning\\TetrisGame\\TetrisGame\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T09:24:57.484Z"
+              "WhenOpened": "2026-07-12T11:57:22.625Z"
             }
           ]
         }

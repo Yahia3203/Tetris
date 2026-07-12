@@ -9,8 +9,8 @@ namespace TetrisGame1.Classes
 		public const int Columns = 10;
 		public const int Rows = 20;
 
-		private readonly int[,] grid = new int[Rows, Columns];
-		public int this[int row, int col] => grid[row, col];
+		protected bool[,] grid = new bool[Rows, Columns];
+		
 		public int width { get; private set; }
 		public int height { get; private set; }
 
@@ -32,52 +32,74 @@ namespace TetrisGame1.Classes
 
 		public bool IsCellOccupied(int row, int col)
 		{
-			if (grid[row, col] != 0) { return true; }
-			else { return false; }
-		}
-
-		//will improve this later to check if the piece can be placed in the board
-		public bool CanPlacePiece(clsPiece piece, int row, int col)
-		{
-			int cellsOccupied = 0;
-			foreach (var cell in piece.GetCells())
-			{
-				cellsOccupied++;
-			}
-
-			if (IsInsideBounds(row, col) && IsCellOccupied(row, col) == false)
-			{
+			if (!IsInsideBounds(row, col))
 				return true;
-			}
-			else
-			{
-				return false;
-			}
 
-
-
+			return grid[row, col] != false;
 		}
 
-		public void LockPiece(clsPiece pieces, int row, int col)
+        //will improve this later to check if the piece can be placed in the board
+        public bool CanPlacePiece(clsPiece piece)
+        {
+            int boardRow = (int)piece.positiononboard.Y;
+            int boardCol = (int)piece.positiononboard.X;
+
+            for (int pieceRow = 0; pieceRow < 4; pieceRow++)
+            {
+                for (int pieceCol = 0; pieceCol < 4; pieceCol++)
+                {
+                    if (!piece.GridPieceOrientation[pieceRow, pieceCol])
+                        continue;
+
+                    int row = boardRow + pieceRow;
+                    int col = boardCol + pieceCol;
+
+                    if (row < 0 || row >= Rows ||
+                        col < 0 || col >= Columns)
+                    {
+                        return false;
+                    }
+
+                    if (IsCellOccupied(row, col))
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
+        }
+
+		public bool LockPiece(clsPiece piece)
 		{
-			if (CanPlacePiece(pieces, row, col))
+			if (CanPlacePiece(piece))
 			{
-				foreach (var cell in pieces.GetCells())
+				int boardRow = (int)piece.positiononboard.Y;
+				int boardCol = (int)piece.positiononboard.X;
+				for (int pieceRow = 0; pieceRow < 4; pieceRow++)
 				{
-					grid[row, col] = 1; // Mark the cell as occupied
+					for (int pieceCol = 0; pieceCol < 4; pieceCol++)
+					{
+						if (!piece.GridPieceOrientation[pieceRow, pieceCol])
+							continue;
+
+						int row = boardRow + pieceRow;
+						int col = boardCol + pieceCol;
+						grid[row,col] = true;						
+					}
+					return true;
+
 				}
+
 			}
-			else
-			{
-				throw new InvalidOperationException("Cannot lock piece at the specified position.");
-			}
+			return false;
 		}
 
 		public void ClearLine(int row)
-		{
+		{ 
 			for (int col = 0; col < Columns; col++)
 			{
-				grid[row, col] = 0; // Clear the line by setting all cells to 0
+				grid[row, col] = false; // Clear the line by setting all cells to 0
 			}
 			// Move all rows above down by one
 			for (int r = row; r > 0; r--)
@@ -90,7 +112,7 @@ namespace TetrisGame1.Classes
 			// Clear the top row
 			for (int c = 0; c < Columns; c++)
 			{
-				grid[0, c] = 0;
+				grid[0, c] = false;
 			}
 		}
 		public int ClearCompletedLines()
@@ -101,8 +123,8 @@ namespace TetrisGame1.Classes
 				bool isLineComplete = true;
 				for (int col = 0; col < Columns; col++)
 				{
-					if (grid[row, col] == 0)
-					{
+					if (grid[row, col] == false){
+
 						isLineComplete = false;
 						break;
 					}
@@ -122,7 +144,7 @@ namespace TetrisGame1.Classes
 			{
 				for (int col = 0; col < Columns; col++)
 				{
-					grid[row, col] = 0; 
+					grid[row, col] = false; 
 				}
 			}
 		}
