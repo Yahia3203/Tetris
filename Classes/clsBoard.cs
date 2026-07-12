@@ -9,7 +9,7 @@ namespace TetrisGame1.Classes
 		public const int Columns = 10;
 		public const int Rows = 20;
 
-		protected bool[,] grid = new bool[Rows, Columns];
+		private bool[,] grid = new bool[Rows, Columns];
 		
 		public int width { get; private set; }
 		public int height { get; private set; }

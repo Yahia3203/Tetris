@@ -16,11 +16,6 @@ namespace TetrisGame1.Classes.Pieces
 			this.Type = PieceType.JPiece;
 			this.RotationState = 0;
 		}
-		public override void RotatePiece()
-		{
-			throw new NotImplementedException();
-=======
->>>>>>> Stashed changes
-		}
-	}
+        
+    }
 }

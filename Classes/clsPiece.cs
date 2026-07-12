@@ -14,20 +14,11 @@ namespace TetrisGame1.Classes
 			IPiece, JPiece, LPiece, OPiece, SPiece, TPiece, ZPiece
 		}
 		public PieceType Type { get; protected set; }
-<<<<<<< Updated upstream
 		public bool[,] GridPieceOrientation { get;  set;}
-		public int RotationState{ get; protected set; }
-		public Vector2 positiononboard = new Vector2(0,0);
-
-
-
 		
-		public  bool[,] GetOccupiedCells(){
-			 
-		}
-		public abstract void RotatePiece();
-=======
-		public bool[,] GridPieceOrientation { get; protected set; }
+		public Vector2 positiononboard = new Vector2(0,0);
+		
+		
 		public int RotationState { get; protected set; }
 
 		public Vector2 position_onboard = new Vector2(0, 0);
@@ -53,21 +44,7 @@ namespace TetrisGame1.Classes
 
 
 		}
-		//returns the actual occupied cells for the current position and rotation
-		public void Getcells(Vector2 position_onboard, int Rotation_State)
-		{
-			int Occipied_Cells = 0;
-			for (int i = 0; i <	Col; i++)
-			{
-			for (int j = 0; j < Row; j++)
-			{
 
-
-			}
-
-		}
-
-	}
 
 		//this function rotates the matrix of each piece by 90 degrees from starting position
 		public void RotatePiece()
@@ -78,9 +55,9 @@ namespace TetrisGame1.Classes
 			{
 				for (int j = i + 1; j < n; j++)
 				{
-					bool temp = grid[i, j];
-					grid[i, j] = grid[j, i];
-					grid[j, i] = temp;
+					bool temp = GridPieceOrientation[i, j];
+                    GridPieceOrientation[i, j] = GridPieceOrientation[j, i];
+                    GridPieceOrientation[j, i] = temp;
 				}
 			}
 			
@@ -89,9 +66,9 @@ namespace TetrisGame1.Classes
 			{
 				for (int j = 0; j < n / 2; j++)
 				{
-					bool temp = grid[i, j];
-					grid[i, j] = grid[i, n - 1 - j];
-					grid[i, n - 1 - j] = temp;
+					bool temp = GridPieceOrientation[i, j];
+                    GridPieceOrientation[i, j] = GridPieceOrientation[i, n - 1 - j];
+                    GridPieceOrientation[i, n - 1 - j] = temp;
 				}
 			}
             RotationState = (RotationState + 1) % 4;
@@ -100,20 +77,12 @@ namespace TetrisGame1.Classes
 		//this function tries a move on a copy of the piece first and only apply it if Board.CanPlace says it's legal
 		public void TryMove(Vector2 position_onboard)
 		{
-
 		}
 
 		// move a piece
 		public void Move(Vector2 position_onboard)
 		{
-
-
 		}
-
-
-
-
->>>>>>> Stashed changes
 
 	}
 }
