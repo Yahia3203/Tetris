@@ -4,9 +4,9 @@ using System.Text;
 
 namespace TetrisGame.Classes.Pieces
 {
-	public class clsTpiece : clsPiece
+	public class clsTPiece : clsPiece
 	{
-	public  clsTpiece(){ 
+	public  clsTPiece(){ 
 	  
 	this.GridPieceOrientation = new bool[4, 4]{
 
