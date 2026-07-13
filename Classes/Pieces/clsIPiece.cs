@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace TetrisGame1.Classes.Pieces
+namespace TetrisGame.Classes.Pieces
 {
 	public class clsIPiece : clsPiece
 	{
@@ -18,9 +18,6 @@ namespace TetrisGame1.Classes.Pieces
 			this.RotationState = 0;
 		}
 
-		public override void RotatePiece()
-		{
-			throw new NotImplementedException();
-		}
+		
 	}
 }

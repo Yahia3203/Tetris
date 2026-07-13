@@ -1,22 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\",
+  "WorkspaceRootPath": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\mylaptop\\desktop\\clinisoft iternsip\\tetris\\classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\clsboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:frmgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clszpiece_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clszpiece_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clsspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clsopiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsopiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clslpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clslpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsjpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|c:\\users\\ehabs\\onedrive\\documents\\github\\tetris\\classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FE857D-AB0B-C86C-CC47-7420312FD7EB}|TetrisGame.csproj|solutionrelative:classes\\pieces\\clsipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +66,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsZPiece_1.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsZPiece_1.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsZPiece_1.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsZPiece_1.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsZPiece_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:50:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsSPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsSPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsSPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsSPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsSPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:50:14.306Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "clsGameController.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsGameController.cs",
               "RelativeDocumentMoniker": "Classes\\clsGameController.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGameController.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsGameController.cs",
               "RelativeToolTip": "Classes\\clsGameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-12T12:26:42.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsGamePanel.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
-              "RelativeDocumentMoniker": "Classes\\clsGamePanel.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsGamePanel.cs",
-              "RelativeToolTip": "Classes\\clsGamePanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "clsPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\clsPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsPiece.cs",
+              "RelativeToolTip": "Classes\\clsPiece.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T12:26:41.439Z",
+              "WhenOpened": "2026-07-12T11:57:22.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "frmGamePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\frmGamePanel.cs",
+              "RelativeDocumentMoniker": "frmGamePanel.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\frmGamePanel.cs [Design]",
+              "RelativeToolTip": "frmGamePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:44:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "clsBoard.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsBoard.cs",
               "RelativeDocumentMoniker": "Classes\\clsBoard.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsBoard.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsBoard.cs",
               "RelativeToolTip": "Classes\\clsBoard.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAUwAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-12T11:59:01.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "clsPiece.cs",
-              "DocumentMoniker": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
-              "RelativeDocumentMoniker": "Classes\\clsPiece.cs",
-              "ToolTip": "C:\\Users\\MyLaptop\\Desktop\\CliniSoft Iternsip\\Tetris\\Classes\\clsPiece.cs",
-              "RelativeToolTip": "Classes\\clsPiece.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "clsGamePanel.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeDocumentMoniker": "Classes\\clsGamePanel.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\clsGamePanel.cs",
+              "RelativeToolTip": "Classes\\clsGamePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T11:57:22.625Z",
+              "WhenOpened": "2026-07-12T12:26:41.439Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:52:00.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:41:57.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:44:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsLPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsLPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsLPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsLPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsLPiece.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:50:48.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsOPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsOPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsOPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsOPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsOPiece.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:50:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsJPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsJPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsJPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsJPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:50:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsIPiece.cs",
+              "DocumentMoniker": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
+              "RelativeDocumentMoniker": "Classes\\Pieces\\clsIPiece.cs",
+              "ToolTip": "C:\\Users\\ehabs\\OneDrive\\Documents\\GitHub\\Tetris\\Classes\\Pieces\\clsIPiece.cs",
+              "RelativeToolTip": "Classes\\Pieces\\clsIPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:49:35.476Z"
             }
           ]
         }

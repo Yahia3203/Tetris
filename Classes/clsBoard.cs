@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TetrisGame1.Classes
+namespace TetrisGame.Classes
 {
-	public class clsBoard
+	public class clsBoard 
 	{
 		public const int Columns = 10;
 		public const int Rows = 20;
 
-		protected bool[,] grid = new bool[Rows, Columns];
-		
+		private bool[,] grid = new bool[Rows, Columns];
 		public int width { get; private set; }
 		public int height { get; private set; }
 
@@ -76,6 +75,7 @@ namespace TetrisGame1.Classes
 			{
 				int boardRow = (int)piece.positiononboard.Y;
 				int boardCol = (int)piece.positiononboard.X;
+				
 				for (int pieceRow = 0; pieceRow < 4; pieceRow++)
 				{
 					for (int pieceCol = 0; pieceCol < 4; pieceCol++)

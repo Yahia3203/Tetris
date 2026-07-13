@@ -1,4 +1,4 @@
-﻿namespace TetrisGame1
+﻿namespace TetrisGame
 {
 	partial class MainForm
 	{

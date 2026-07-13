@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TetrisGame1.Classes.Pieces
+namespace TetrisGame.Classes.Pieces
 {
 	internal class clsJPiece : clsPiece
 	{
-		public clsJPiece() {
+		public clsJPiece()
+		{
 			this.GridPieceOrientation = new bool[4, 4]{
 			{ false , false,  true, false },
 			{ false , false,  true, false },
@@ -15,12 +16,6 @@ namespace TetrisGame1.Classes.Pieces
 										};
 			this.Type = PieceType.JPiece;
 			this.RotationState = 0;
-		}
-		public override void RotatePiece()
-		{
-			throw new NotImplementedException();
-=======
->>>>>>> Stashed changes
 		}
 	}
 }

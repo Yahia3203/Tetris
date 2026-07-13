@@ -1,4 +1,4 @@
-namespace TetrisGame1
+namespace TetrisGame
 {
 	public partial class MainForm : Form
 	{

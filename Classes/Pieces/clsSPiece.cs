@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TetrisGame1.Classes.Pieces
+namespace TetrisGame.Classes.Pieces
 {
 	public class clsSPiece : clsPiece
 	{
@@ -19,9 +19,6 @@ namespace TetrisGame1.Classes.Pieces
 		}
 
 
-		public override void RotatePiece()
-		{
-			throw new NotImplementedException();
-		}
+		
 	}
 }

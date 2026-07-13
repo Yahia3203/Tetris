@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TetrisGame1.Classes
+namespace TetrisGame.Classes
 {
 	public class clsGameController
 	{
+
 	}
 }
